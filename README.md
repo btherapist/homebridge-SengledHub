@@ -1,3 +1,20 @@
+This is a project built off of the # homebridge-eamples project.
+
+Sengled hub is inteneded to work with the current Sengled smart app to add devices to homebridge.
+
+This is an independent project so no updates garenteeded.
+
+
+Please see # homebridge-examples read me below:
+
+
+
+
+
+
+
+
+
 # homebridge-examples
 
 This repo bundles some example implementations for homebridge plugins. They provide some example code to get 
